@@ -1,5 +1,5 @@
 import React from 'react';
-import QuizApp from './QuizApp';
+import React, { useState } from 'react';
 
 function App() {
   return (
@@ -8,8 +8,6 @@ function App() {
     </div>
   );
 }
-
-export default App;
 
 import React, { useState } from 'react';
 
